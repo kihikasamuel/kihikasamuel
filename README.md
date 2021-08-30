@@ -1,7 +1,8 @@
-# Hi, My name is Sam! 👋
-I'm a full stack web developer...
-
+# Hi 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+I'm Sam Kihika, a full stack web developer building attractive, highly responsive and accessible web apps with
+carefully crafted code....
   
 ## 🛠 Technologies & Tools
 JavaScript(Vue.js, Nuxt.js, Node.js), PHP, MySQL, HTML, CSS...
@@ -12,6 +13,8 @@ JavaScript(Vue.js, Nuxt.js, Node.js), PHP, MySQL, HTML, CSS...
 **Client:** Vue.Js/Nuxt.js
 
 **Server:** Express.js, MongoDB
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
   
 ## 🔗 Links
