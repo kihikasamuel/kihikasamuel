@@ -14,9 +14,10 @@ JavaScript(Vue.js, Nuxt.js, Node.js), PHP, MySQL, HTML, CSS...
 
 **Server:** Express.js, MongoDB
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Summitm&theme=radical&card_width=450em)](https://github.com/Summitm/Summitm/github-readme-stats)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samkihika.site/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-kihika-6b394613b/)
