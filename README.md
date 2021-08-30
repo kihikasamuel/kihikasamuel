@@ -1,7 +1,9 @@
 # Hi, My name is Sam! 👋
 I'm a full stack web developer...
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   
-## 🛠 Skills
+## 🛠 Technologies & Tools
 JavaScript(Vue.js, Nuxt.js, Node.js), PHP, MySQL, HTML, CSS...
 
   
