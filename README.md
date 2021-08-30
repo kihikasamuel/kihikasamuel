@@ -1,7 +1,3 @@
-
-## 🚀 About Me
-
-  
 # Hi, My name is Sam! 👋
 I'm a full stack web developer...
   
