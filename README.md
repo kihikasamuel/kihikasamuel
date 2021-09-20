@@ -1,6 +1,5 @@
 # Hi 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Summitm)
 
 I'm Sam Kihika, a full stack web developer building attractive, highly responsive and accessible web apps with
 carefully crafted code....
