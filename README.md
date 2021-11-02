@@ -1,8 +1,7 @@
 # Hi 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I'm Sam Kihika, a full stack web developer building attractive, highly responsive and accessible web apps with
-carefully crafted code....
+I'm a software and Web3 enthusiast. I love to code <b>Frontend</b> and <b>Backend</b>.....
   
 ## 🛠 Technologies & Tools
 JavaScript(Vue.js, Nuxt.js, Node.js), PHP, MySQL, HTML, CSS...
