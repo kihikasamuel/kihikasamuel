@@ -4,12 +4,7 @@
 I'm a <b>software</b> and <b>Web3 enthusiast</b>. I love to code <b>Frontend</b> and <b>Backend</b>.....
   
 ## 🛠 Technologies & Tools
-JavaScript(Vue.js, Nuxt.js, Node.js), PHP, MySQL, HTML, CSS...
-
-  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Summitm&theme=radical&card_width=450em)](https://github.com/Summitm/Summitm/github-readme-stats)
 
 👩‍💻 I'm currently looking for remote developer job.
@@ -30,4 +25,5 @@ JavaScript(Vue.js, Nuxt.js, Node.js), PHP, MySQL, HTML, CSS...
 
 ⚡️ Fun fact - I love playing Chess
 
-  
+# Github stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
