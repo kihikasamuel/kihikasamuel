@@ -1,9 +1,9 @@
 # Hi, I'm Sam👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I'm a <b>software</b> and <b>Web3 enthusiast</b>. I love to code <b>Frontend</b> and <b>Backend</b>.....
+I'm a <b>software</b> and <b>Web3 enthusiast</b>. I love to code. <b>Frontend</b> and <b>Backend</b>.
   
-## 🛠 Technologies & Tools
+# Top Languages
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Summitm&theme=radical&card_width=450em)](https://github.com/Summitm/Summitm/github-readme-stats)
 
