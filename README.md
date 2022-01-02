@@ -1,7 +1,7 @@
 # Hi, I'm Sam👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I'm a <b>software</b> and <b>Web3 enthusiast</b>. I love to code. <b>Frontend</b> and <b>Backend</b>.
+I'm a <b>software</b> and <b>Web3 enthusiast</b>. 
+As Fullstack Web Developer, I love to code both <b>Frontend</b> and <b>Backend</b>.
   
 # Top Languages
  
