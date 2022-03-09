@@ -49,5 +49,5 @@ I love to code both <b>Frontend</b> and <b>Backend</b>.
 
 ⚡️ Fun fact - I love playing Chess
 
-# Github stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
+# Github stats and Dev Card
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /> <a href="https://app.daily.dev/KihikaSamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="400" alt="Kihika Samuel's Dev Card"/></a>
