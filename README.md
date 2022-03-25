@@ -1,6 +1,6 @@
 # Hi, I'm Sam👋
 
-<div>
+<div style="display:flex;">
   <div style="float:left;">
     I'm a <b>software</b> and <b>Web3 enthusiast</b>.
 
