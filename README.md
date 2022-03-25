@@ -6,6 +6,10 @@ As Fullstack Web Developer,
 
 I love to code both <b>Frontend</b> and <b>Backend</b>.
 
+<dvi style="align-items: left;">
+<a href="https://app.daily.dev/KihikaSamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/></a>  
+</div>
+
 # Skills and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
