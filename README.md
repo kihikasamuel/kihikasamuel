@@ -1,13 +1,19 @@
 # Hi, I'm Sam👋
 
-I'm a <b>software</b> and <b>Web3 enthusiast</b>.
+<div>
+  <div style="float:left;">
+    I'm a <b>software</b> and <b>Web3 enthusiast</b>.
 
-As Fullstack Web Developer,
+    As Fullstack Web Developer,
 
-I love to code both <b>Frontend</b> and <b>Backend</b>.
+    I love to code both <b>Frontend</b> and <b>Backend</b>.
+  </div>
 
-<dvi style="align-items: left;">
-<a href="https://app.daily.dev/KihikaSamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/></a>  
+  <dvi style="float:right">
+    <a href="https://app.daily.dev/KihikaSamuel">
+      <img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/>
+    </a>  
+  </div>
 </div>
 
 # Skills and Tools
