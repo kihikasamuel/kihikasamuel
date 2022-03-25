@@ -15,7 +15,7 @@
 
   <div>
     <a href="https://app.daily.dev/KihikaSamuel">
-      <img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" alt="Kihika Samuel's Dev Card"/>
+      <img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" style="width:200px;" alt="Kihika Samuel's Dev Card"/>
     </a>  
   </div>
 </div>
