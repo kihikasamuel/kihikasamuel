@@ -2,11 +2,15 @@
 
 <div style="display:flex;">
   <div>
-    I'm a <b>software</b> and <b>Web3 enthusiast</b>.
-
+    <p>
+      I'm a <b>software</b> and <b>Web3 enthusiast</b>.
+    </p>
+    <p>
     As Fullstack Web Developer,
-
+    </p>
+    <p>
     I love to code both <b>Frontend</b> and <b>Backend</b>.
+    </p>
   </div>
 
   <div>
