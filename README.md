@@ -1,6 +1,6 @@
 # Hi, I'm Sam👋
 
-<div style="display:flex;">
+<div style="display:flex-inline; flex-direction:row;">
   <div>
     <p>
       I'm a <b>software</b> and <b>Web3 enthusiast</b>.
