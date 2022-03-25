@@ -1,24 +1,10 @@
 # Hi, I'm Sam👋
-
-<div style="display:flex-inline; flex-direction:row-reverse;">
-  <div>
-    <p>
-      I'm a <b>software</b> and <b>Web3 enthusiast</b>.
-    </p>
-    <p>
-    As Fullstack Web Developer,
-    </p>
-    <p>
-    I love to code both <b>Frontend</b> and <b>Backend</b>.
-    </p>
-  </div>
-
-  <div>
-    <a href="https://app.daily.dev/KihikaSamuel">
-      <img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" style="width:200px;" alt="Kihika Samuel's Dev Card"/>
-    </a>  
-  </div>
-</div>
+<p>
+  I'm Fullstack Web Developer with 4 years of Experience in Web Development.
+</p>
+<p>
+  I love to code both <b>Frontend</b> and <b>Backend</b>.
+</p>
 
 # Skills and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,5 +51,5 @@
 
 # Github stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
-# Dev Card
-  <a href="https://app.daily.dev/KihikaSamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/></a>
+<!-- # Dev Card -->
+<!--   <a href="https://app.daily.dev/KihikaSamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/></a> -->
