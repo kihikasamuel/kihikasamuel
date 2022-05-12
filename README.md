@@ -1,4 +1,5 @@
-# Hi, I'm Sam👋 ![](https://komarev.com/ghpvc/?username=Summitm&color=green)
+# Hi, I'm Sam👋 
+![](https://komarev.com/ghpvc/?username=Summitm&color=green)
 <p>
   I'm Fullstack Web Developer with 4 years of Experience in Web Development.
 </p>
