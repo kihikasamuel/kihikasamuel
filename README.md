@@ -1,4 +1,4 @@
-# Hi, I'm Sam👋
+# Hi, I'm Sam👋 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <p>
   I'm Fullstack Web Developer with 4 years of Experience in Web Development.
 </p>
