@@ -1,7 +1,7 @@
 # Hi, I'm Sam 👋.
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Summitm.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitor)
 <p>
-  I'm Fullstack Web Developer with 4 years of Experience in Web Development.
+  I'm Fullstack Web Developer with 4 years of of proffessional experience.
 </p>
 <p>
   I love to code both <b>Frontend</b> and <b>Backend</b>.
