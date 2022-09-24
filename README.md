@@ -1,5 +1,5 @@
 # Hi, I'm Sam 👋.
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Summitm.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitor)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kihikasamuel.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitor)
 <p>
   I'm Fullstack Web Developer with 4 years of of proffessional experience.
 </p>
@@ -51,6 +51,6 @@
 ⚡️ Fun fact - I love playing Chess
 
 # Github stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summitm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihikasamuel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
 <!-- # Dev Card -->
 <!--   <a href="https://app.daily.dev/Kihikasamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/></a> -->
