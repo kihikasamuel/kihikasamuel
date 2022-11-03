@@ -1,5 +1,4 @@
 # Hi, I'm Sam 👋.
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kihikasamuel.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitor)
 <p>
   I'm Fullstack Web Developer with 4 years of of proffessional experience.
 </p>
