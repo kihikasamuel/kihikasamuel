@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋.
 <p>
-  I'm Fullstack Web Developer with 4 years of of proffessional experience.
+  I'm Full Stack Engineer with over 4 years of of proffessional experience.
 </p>
 <p>
   I love to code both <b>Frontend</b> and <b>Backend</b>.
