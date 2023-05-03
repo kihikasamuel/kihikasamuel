@@ -1,9 +1,6 @@
 # Hi, I'm Sam 👋.
 <p>
-  I'm Full Stack Engineer with over 4 years of of proffessional experience.
-</p>
-<p>
-  I love to code both <b>Frontend</b> and <b>Backend</b>.
+  Software Engineer | Elixir & Phoenix Framework | Vue.js | Nuxt.js | Node.js | Express.js 
 </p>
 
 # Skills and Tools
