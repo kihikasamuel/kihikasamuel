@@ -30,18 +30,17 @@
 
 # Notes
 
-👩‍💻 I'm currently looking for remote developer job.
+👩‍💻 I'm currently looking for remote software developer role.
 
 🧠 I'm currently learning MongoDB, TypeScript, Payment Integration and Solidity
 
-👯‍♀️ I'm looking to collaborate on any Open Source Expressjs Project
+👯‍♀️ I'm looking to collaborate on any Open Source Expressjs and Elixir projects.
 
-💬 Ask me about JavaScript and Web Development
+💬 Ask me about JavaScript, Nodejs, Elixir and Web Development
 
 📫 How to reach me 👇
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/samwhocodes/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samkihika.site/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-kihika-6b394613b/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KihikaSamuel/)
 
 😄 Pronouns: he/him/his
