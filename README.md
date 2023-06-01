@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋.
 <p>
-  Software Engineer | Elixir & Phoenix Framework | Vue.js | Nuxt.js | Node.js | Express.js 
+  Software Engineer | Elixir | Phoenix | Vue.js | Nuxt.js | Node.js | Express.js 
 </p>
 
 # Skills and Tools
