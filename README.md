@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋.
 <p>
-  Software Engineer | Elixir | Phoenix | Vue.js | Nuxt.js | Node.js | Express.js 
+  I’m a results-driven Software Engineer who writes code that delivers real-world value and builds solutions designed to scale, empower, and transform businesses from day one
 </p>
 
 # Skills and Tools
