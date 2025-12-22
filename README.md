@@ -51,4 +51,4 @@
 <!-- # Dev Card -->
 <!--   <a href="https://app.daily.dev/Kihikasamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/></a> -->
 [![Sponsor](https://github.com/sponsors/kihikasamuel/button)
-<a href="https://github.com/sponsors/kihikasamuel/button" title="Sponsor kihikasamuel" height="32" width="114" style="border: 0; border-radius: 6px;"></a>
+<a href="https://github.com/sponsors/kihikasamuel/button" title="Sponsor kihikasamuel" height="32" width="114" style="border: 0; border-radius: 6px; text-color: #CC00CC;"></a>
