@@ -47,7 +47,7 @@
 ⚡️ Fun fact - I love playing Chess - 
 <a href="https://github.com/sponsors/kihikasamuel/button" title="Sponsor kihikasamuel" height="32" width="114" style="border: 0; border-radius: 6px; text-color: #CC00CC;"></a>
 
-# Github stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihikasamuel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
+<!--# Github stats -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihikasamuel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /> -->
 <!-- # Dev Card -->
 <!--   <a href="https://app.daily.dev/Kihikasamuel"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kihika Samuel's Dev Card"/></a> -->
