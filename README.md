@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋.
 <p>
-  I’m a results-driven Software Engineer who writes code that delivers real-world value and builds solutions designed to scale, empower, and transform businesses from day one
+  I’m a results-driven Software Engineer who writes code that delivers real-world value and builds solutions designed to scale, empower, and transform businesses from day one.
 </p>
 
 # Skills and Tools
@@ -33,15 +33,13 @@
 
 👩‍💻 I'm currently looking for remote software developer role.
 
-🧠 I'm currently learning MongoDB, TypeScript, Payment Integration and Solidity
-
 👯‍♀️ I'm looking to collaborate on any Open Source Expressjs and Elixir projects.
 
-💬 Ask me about JavaScript, Nodejs, Elixir and Web Development
+💬 Ask me about JavaScript, Nodejs, Elixir, Payment Systems and Web Development
 
 📫 How to reach me 👇
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/samwhocodes/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samkihika.site/)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samkihika.site/) -->
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KihikaSamuel/)
 
 ⚡️ Fun fact - I love playing Chess - 
